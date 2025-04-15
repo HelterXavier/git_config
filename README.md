@@ -120,3 +120,9 @@ feat(escopo): <descrição>
 | Alterações após review   | 👌 `:ok_hand:` |
 | Refatoração              | ♻️ `:recycle:` |
 | Mover/Renomear arquivos  | 🚚 `:truck:` |
+
+
+## 🔖 Issues
+
+- Tarefas a serem realizadas no projeto.
+- Problemas a serem resolvidos.
