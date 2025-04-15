@@ -77,7 +77,7 @@ Branches permitem trabalhar em cópias isoladas do código sem afetar a base pri
 ### Estrutura da mensagem
 
 ```
-feat: <descrição>
+feat(escopo): <descrição>
 :emoji: <tipo>(escopo): <descrição>
 ```
 
