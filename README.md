@@ -126,3 +126,8 @@ feat(escopo): <descrição>
 
 - Tarefas a serem realizadas no projeto.
 - Problemas a serem resolvidos.
+
+## ✅ Pull Requests
+
+- É uma solicitação de revisão e mesclagem de alterações de um branch para outro. O "dono" do projeto avalia a pull request sugerida.
+- Ajudar no desenvolvimento de outros projetos
