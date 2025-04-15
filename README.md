@@ -43,6 +43,12 @@ git commit -m "My first commit"  # Cria commit
 git push                         # Envia para repositório remoto
 ```
 
+## 🔐 Por que usar chave SSH no Git/GitHub?
+
+- Segurança reforçada
+- Evita o uso de usuário e senha em cada git push/pull, que pode ser interceptado ou exposto.
+- Isso agiliza o fluxo de trabalho, principalmente se você faz muitos commits por dia.
+
 ## 🔁 Outros comandos úteis
 
 ```bash
@@ -131,3 +137,12 @@ feat(escopo): <descrição>
 
 - É uma solicitação de revisão e mesclagem de alterações de um branch para outro. O "dono" do projeto avalia a pull request sugerida.
 - Ajudar no desenvolvimento de outros projetos
+
+## 🧠 Gist
+
+- Rastreia alterações nos seus arquivos.
+- Permite voltar no tempo (commits).
+- Ajuda a trabalhar em múltiplas versões de um projeto (branches).
+- Funciona sem precisar de internet (local-first).
+- Armazenar códigos que podem ser úteis futuramente.
+- "Armazenar ideias"
